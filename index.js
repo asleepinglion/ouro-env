@@ -20,4 +20,4 @@ YSS'      YSSP~YSSY    S*S           YSSP  S*S    SSS  YSSY    YSS'
 
 */
 
-module.exports.Environment = require('./modules/environment/class');
+module.exports.Env = require('./modules/env/class');
