@@ -4,7 +4,7 @@
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.8.0",
+  "version": "0.8.2",
   "description": "Environment module to determine current running environment based on NODE_ENV.",
   "main": "index.js",
   "repository": "https://github.com/asleepinglion/superjs-env",
