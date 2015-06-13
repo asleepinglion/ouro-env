@@ -1,15 +1,15 @@
 {
-  "name": "superjs-env",
+  "name": "ouro-env",
   "author": {
     "name": "Aaron Storck",
     "email": "aaronstorck@gmail.com"
   },
-  "version": "0.8.3",
+  "version": "0.9.0",
   "description": "Environment module to determine current running environment based on NODE_ENV.",
   "main": "index.js",
-  "repository": "https://github.com/asleepinglion/superjs-env",
+  "repository": "https://github.com/asleepinglion/ouro-env",
   "dependencies": {
-    "superjs": "*"
+    "ouro": "*"
   },
   "license": "MIT"
 }
